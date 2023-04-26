@@ -1,2 +1,2 @@
 # git_test
-Nigger
+This is MY Read me Page
